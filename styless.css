@@ -1,0 +1,33 @@
+
+     p {
+      height: 50px;
+      width:1200px;
+      background: rgb(245, 247, 244);
+      font-family: fantasy;
+      color: rgb(25, 26, 25);
+    }
+    div {
+        background-color: rgb(19, 19, 19);
+        color: rgb(94, 193, 112);
+        font-family:fantasy;
+        width:1200px;
+    }
+    h2 {
+      color: rgb(0, 4, 255);
+      font-family: fantasy;
+      text-align:left;
+    }
+    img{
+      display: block;
+      margin-left: auto;
+      margin-right: auto;
+      width: 50%;
+    }
+    nav ul li {
+        display: inline;
+        margin-right: 10px; 
+    }
+    #ele{
+      color: rgb(140, 139, 194);
+      background-color: blue;
+    }
